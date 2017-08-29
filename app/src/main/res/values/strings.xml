@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SpinnerA</string>
+    <string name="Secim">Seçim Yapınız</string>
+    <string-array name="dersler">
+        <item>Android</item>
+        <item>Ios</item>
+        <item>C#</item>
+        <item>Php</item>
+        <item>Java</item>
+        <item>JavaScript</item>
+    </string-array>
+</resources>
